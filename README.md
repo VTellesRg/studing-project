@@ -1,3 +1,31 @@
+# REPOSITÓRIO DE ESTUDOS BACKEND NODE.JS COM NEST.JS
+- Repositório criado para acompanhar evolução de estudos Nest.JS através da construção e aprimoramento de api simples de controle e autenticação de usuarios
+- 
+## Objetivos:
+- aprimorar conhecimentos de API REST com Node.js e Nest.js
+- aprimorar conhecimentos de construção de apis com TypeScript
+- aprimorar e aplicar boas práticas de desenvolvimento Back-end
+- implementar recursos de segurança e autenticação no Back-end
+- implementar as mais novas ferramentas Nest.js na construção da API
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
