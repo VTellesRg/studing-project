@@ -7,7 +7,7 @@
 - aprimorar e aplicar boas práticas de desenvolvimento Back-end
 - implementar recursos de segurança e autenticação no Back-end
 - implementar as mais novas ferramentas Nest.js na construção da API
-
+- implementar conceitos de Clean Architecture em back-end node.js
 
 
 
